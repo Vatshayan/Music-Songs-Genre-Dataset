@@ -8,6 +8,9 @@ for Music Information Retrieval Conference (ISMIR 2011), 2011.
 
 I am Just Classifying and Implementing various Machine Learning Algorithms for accuracy & prediction.
 
-Will use pyhton in Juptyer notebook for Implementation of Dataset step by step for easy Understanding of machine learning, will upload up to 2O oct 2018.
+### Contact me at (Vatshayan007@gmail.com) for Codes, Various Datasets, PPT and Project. 
 
-For more information about datset Reference( https://think.cs.vt.edu/corgis/csv/music/music.html)
+
+
+For more information about dataset Reference( https://think.cs.vt.edu/corgis/csv/music/music.html)
+
