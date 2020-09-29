@@ -8,7 +8,7 @@ for Music Information Retrieval Conference (ISMIR 2011), 2011.
 
 I am Just Classifying and Implementing various Machine Learning Algorithms for accuracy & prediction.
 
-### Contact me at (Vatshayan007@gmail.com) for Codes, Various Datasets, PPT and Project. 
+### Contact me at (Vatshayan007@gmail.com) for Codes, Research papers, Various Datasets, PPT and Project. 
 Feel free to mail me!
 Lets Learn, Work and Grow together :-)
 
